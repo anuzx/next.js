@@ -1,7 +1,8 @@
 
-import Link from "next/link";
+import Link from "next/link"
+import dotenv from "dotenv";
 
-
+dotenv.config();
 //what are we doing :
 //creating a frontend to do signup ,send that data to backend and store it in our database
 export default function Home() {
