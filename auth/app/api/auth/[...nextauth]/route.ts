@@ -20,7 +20,7 @@ const handler = NextAuth({
           const user = {
               name: "anuj",
               id: "1",
-              username: "kuchupuchu@gmail.com"
+              email: "kuchupuchu@gmail.com"
           }
           if (user) {
               return user; //they will be allowed to login 
