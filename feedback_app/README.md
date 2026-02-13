@@ -10,3 +10,7 @@
 3. code should effectively handle both scenarios of registering a new user and updating an existing but unverified user account with a new password and verification code <br>
 
 4. we are using resend email 
+
+<br>
+
+5. 
